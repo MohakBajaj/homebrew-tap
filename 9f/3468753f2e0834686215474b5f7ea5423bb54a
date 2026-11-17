@@ -1,0 +1,19 @@
+Casks/jot.rb
+  s_81115088ed856d::t_5221ba3d254bd2 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9f3468753f2e0834686215474b5f7ea5423bb54a",
+  "prompts": {},
+  "sessions": {
+    "s_81115088ed856d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c2c1d16-f4bf-4d64-b3fa-155a6dd74a4a",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
