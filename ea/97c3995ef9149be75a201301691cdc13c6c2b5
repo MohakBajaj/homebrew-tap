@@ -1,0 +1,23 @@
+.github/workflows/bump.yml
+  s_81115088ed856d::t_0f2bfc8eae098b 1-20
+README.md
+  s_81115088ed856d::t_482ebad6f24fc9 1-13
+bump.sh
+  s_81115088ed856d::t_7c5ba4081309e1 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ea97c3995ef9149be75a201301691cdc13c6c2b5",
+  "prompts": {},
+  "sessions": {
+    "s_81115088ed856d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c2c1d16-f4bf-4d64-b3fa-155a6dd74a4a",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
