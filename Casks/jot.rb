@@ -1,6 +1,6 @@
 cask "jot" do
-  version "2.1.0"
-  sha256 "75f9115c522ef70ad3512d4664c9d6994c5fd8ac315c5fd5115e9c70b26da69a"
+  version "2.2.1"
+  sha256 "88fa4bad14fccf9f313cdeb775cb452737812e9f1511f1f42dc69e320819c003"
 
   url "https://dl.sayjot.xyz/v#{version}/Jot-#{version}.dmg"
   name "Jot"
